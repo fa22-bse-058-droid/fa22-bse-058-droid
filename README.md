@@ -16,7 +16,7 @@ I specialize in building **agentic AI systems**, **full-stack web platforms**, a
 - I specialize in **Agentic AI (LangGraph)**, **RAG pipelines**, and **async backend systems**
 - Co-founder at **Code Eater**, a web agency shipping full-stack + AI products for real clients
 - Currently **open to full-stack / AI engineering roles**
-- Reach me at **[ishnazaka65@gmail.com]**
+- Reach me at **ishnazaka65@gmail.com**
 
 ---
 
@@ -63,7 +63,7 @@ I specialize in building **agentic AI systems**, **full-stack web platforms**, a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-E8754A?style=for-the-badge&logo=vercel&logoColor=white)](https://fa22-bse-058-droid.github.io/portfolio-ISHX/)
+[![LinkedIn](https://www.linkedin.com/in/ishna-zaka-521291254/)
+[![Portfolio](https://fa22-bse-058-droid.github.io/Ishna-Zaka/)
 
 </div>
