@@ -63,7 +63,7 @@ I specialize in building **agentic AI systems**, **full-stack web platforms**, a
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/ishna-zaka-521291254/)
-[![Portfolio](https://fa22-bse-058-droid.github.io/Ishna-Zaka/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishna-zaka-521291254/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-E8754A?style=for-the-badge&logo=vercel&logoColor=white)](https://fa22-bse-058-droid.github.io/Ishna-Zaka/)
 
 </div>
