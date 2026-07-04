@@ -1,14 +1,14 @@
  <div align="center">
   
   ```
-  visitor@github:~$ cat ./about_me.txt
+ 
   
-  Name     : Ishna Zaka
-  Handle   : fa22-bse-058-droid
-  Uni      : COMSATS University Islamabad, Sahiwal Campus
-  Focus    : Full-Stack Web · Agentic AI · Backend Systems
- Status   : Building Forge · open to full-stack/AI roles
- Collab   : OPEN — reach out anytime 🟢
+Name     : Ishna Zaka
+Handle   : fa22-bse-058-droid
+Uni      : COMSATS University Islamabad, Sahiwal Campus
+Focus    : Full-Stack Web · Agentic AI · Backend Systems
+Status   : Building Forge · open to full-stack/AI roles
+Collab   : OPEN — reach out anytime 🟢
  ```
 
  </div>
