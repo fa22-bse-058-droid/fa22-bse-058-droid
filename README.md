@@ -1,3 +1,6 @@
+<div align="center">
+
+​```
 visitor@github:~$ cat ./about_me.txt
 
 Name     : Ishna Zaka
@@ -6,9 +9,9 @@ Uni      : COMSATS University Islamabad, Sahiwal Campus
 Focus    : Full-Stack Web · Agentic AI · Backend Systems
 Status   : Building Forge · open to full-stack/AI roles
 Collab   : OPEN — reach out anytime 
+​```
 
----
-
+</div>
 ### tech.stack
 
 **Languages**
